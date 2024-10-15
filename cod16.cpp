@@ -26,7 +26,7 @@ void swap(int a, int b){//temp a b
 // }
 int & swapReferenceVar(int &a, int &b){//temp a b
     int temp=a;         //4   4  5
-    a=b;                //4   5  5
+    a=b;                //4   5  5zz
     b=temp;             //4   5  4
     return a;
 }

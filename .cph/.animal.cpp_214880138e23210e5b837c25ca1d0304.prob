@@ -1,0 +1,1 @@
+{"name":"Local: animal","url":"c:\\prince\\animal.cpp","tests":[{"id":1727947822891,"input":"3\n2\n6\n8\n","output":"1\n2\n2\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\prince\\animal.cpp","group":"local","local":true}

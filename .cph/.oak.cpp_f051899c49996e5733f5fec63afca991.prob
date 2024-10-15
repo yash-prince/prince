@@ -1,0 +1,1 @@
+{"name":"Local: oak","url":"c:\\prince\\oak.cpp","tests":[{"id":1727689484525,"input":"5\n1 1\n2 1\n2 2\n3 2\n4 4\n","output":"NO\nYES\nNO\nNO\nYES\n"},{"id":1727689837634,"input":"5\n1 1\n2 1\n2 2\n3 2\n4 4\n","output":"NO\nYES\nNO\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\prince\\oak.cpp","group":"local","local":true}

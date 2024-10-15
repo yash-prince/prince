@@ -11,5 +11,5 @@ int main(){
         cout<<"hello";
     }
     
-    return 1;
+    return 0.5;
 }

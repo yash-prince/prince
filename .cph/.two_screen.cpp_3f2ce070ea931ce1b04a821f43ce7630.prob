@@ -1,0 +1,1 @@
+{"name":"Local: two_screen","url":"c:\\prince\\two_screen.cpp","tests":[{"id":1728917370786,"input":"3\nGARAGE\nGARAGEFORSALE\nABCDE\nAABCD\nTRAINING\nDRAINING\n","output":"14\n10\n16\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\prince\\two_screen.cpp","group":"local","local":true}
